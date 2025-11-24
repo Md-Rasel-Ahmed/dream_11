@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "player_name": "Virat Kohli",
+    "country": "India",
+    "player_position": "Batter",
+    "price": "880",
+    "batting_hand": "Right-handed",
+    "rating": 95,
+    "player_img": "https://example.com/images/virat.png"
+  },
+  {
+    "id": 2,
+    "player_name": "Ben Stokes",
+    "country": "England",
+    "player_position": "All-rounder",
+    "price": "880",
+    "batting_hand": "Left-handed",
+    "rating": 92,
+    "player_img": "https://example.com/images/stokes.png"
+  },
+  {
+    "id": 3,
+    "player_name": "Steve Smith",
+    "country": "Australia",
+    "player_position": "Batter",
+    "price": "880",
+    "batting_hand": "Right-handed",
+    "rating": 90,
+    "player_img": "https://example.com/images/smith.png"
+  },
+  {
+    "id": 4,
+    "player_name": "Jasprit Bumrah",
+    "country": "India",
+    "player_position": "Bowler",
+    "price": "880",
+    "batting_hand": "Right-handed",
+    "rating": 93,
+    "player_img": "https://example.com/images/bumrah.png"
+  },
+  {
+    "id": 5,
+    "player_name": "Rashid Khan",
+    "country": "Afghanistan",
+    "player_position": "All-rounder",
+    "price": "880",
+    "batting_hand": "Right-handed",
+    "rating": 89,
+    "player_img": "https://example.com/images/rashid.png"
+  },
+  {
+    "id": 6,
+    "player_name": "Jos Buttler",
+    "country": "England",
+    "player_position": "Batter",
+    "price": "880",
+    "batting_hand": "Right-handed",
+    "rating": 91,
+    "player_img": "https://example.com/images/buttler.png"
+  },
+  {
+    "id": 7,
+    "player_name": "Kane Williamson",
+    "country": "New Zealand",
+    "player_position": "Batter",
+    "price": "880",
+    "batting_hand": "Right-handed",
+    "rating": 92,
+    "player_img": "https://example.com/images/williamson.png"
+  },
+  {
+    "id": 8,
+    "player_name": "Trent Boult",
+    "country": "New Zealand",
+    "player_position": "Bowler",
+    "price": "880",
+    "batting_hand": "Left-handed",
+    "rating": 88,
+    "player_img": "https://example.com/images/boult.png"
+  },
+  {
+    "id": 9,
+    "player_name": "Hardik Pandya",
+    "country": "India",
+    "player_position": "All-rounder",
+    "price": "880",
+    "batting_hand": "Right-handed",
+    "rating": 90,
+    "player_img": "https://example.com/images/pandya.png"
+  },
+  {
+    "id": 10,
+    "player_name": "David Warner",
+    "country": "Australia",
+    "player_position": "Batter",
+    "price": "880",
+    "batting_hand": "Left-handed",
+    "rating": 91,
+    "player_img": "https://example.com/images/warner.png"
+  },
+  {
+    "id": 11,
+    "player_name": "Mitchell Starc",
+    "country": "Australia",
+    "player_position": "Bowler",
+    "price": "880",
+    "batting_hand": "Left-handed",
+    "rating": 89,
+    "player_img": "https://example.com/images/starc.png"
+  },
+  {
+    "id": 12,
+    "player_name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "player_position": "All-rounder",
+    "price": "880",
+    "batting_hand": "Left-handed",
+    "rating": 90,
+    "player_img": "https://example.com/images/shakib.png"
+  },
+  {
+    "id": 13,
+    "player_name": "Faf du Plessis",
+    "country": "South Africa",
+    "player_position": "Batter",
+    "price": "880",
+    "batting_hand": "Right-handed",
+    "rating": 89,
+    "player_img": "https://example.com/images/faf.png"
+  },
+  {
+    "id": 14,
+    "player_name": "Chris Gayle",
+    "country": "West Indies",
+    "player_position": "Batter",
+    "price": "2000",
+    "batting_hand": "Left-handed",
+    "rating": 88,
+    "player_img": "https://example.com/images/gayle.png"
+  },
+  {
+    "id": 15,
+    "player_name": "Rashid Mallick",
+    "country": "Pakistan",
+    "player_position": "Bowler",
+    "price": "£800K",
+    "batting_hand": "Right-handed",
+    "rating": 87,
+    "player_img": "https://example.com/images/mallick.png"
+  },
+  {
+    "id": 16,
+    "player_name": "AB de Villiers",
+    "country": "South Africa",
+    "player_position": "Batter",
+    "price": "£1.0M",
+    "batting_hand": "Right-handed",
+    "rating": 94,
+    "player_img": "https://example.com/images/ab.png"
+  },
+  {
+    "id": 17,
+    "player_name": "Ravindra Jadeja",
+    "country": "India",
+    "player_position": "All-rounder",
+    "price": "£950K",
+    "batting_hand": "Left-handed",
+    "rating": 92,
+    "player_img": "https://example.com/images/jadeja.png"
+  },
+  {
+    "id": 18,
+    "player_name": "Kagiso Rabada",
+    "country": "South Africa",
+    "player_position": "Bowler",
+    "price": "$880",
+    "batting_hand": "Right-handed",
+    "rating": 90,
+    "player_img": "https://example.com/images/rabada.png"
+  },
+  {
+    "id": 19,
+    "player_name": "Travis Head",
+    "country": "Australia",
+    "player_position": "Batter",
+    "price": "£850K",
+    "batting_hand": "Left-handed",
+    "rating": 87,
+    "player_img": "https://example.com/images/head.png"
+  },
+  {
+    "id": 20,
+    "player_name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "player_position": "Bowler",
+    "price": "£900K",
+    "batting_hand": "Left-handed",
+    "rating": 91,
+    "player_img": "https://example.com/images/afridi.png"
+  }
+]
