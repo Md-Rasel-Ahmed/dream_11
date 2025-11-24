@@ -3,10 +3,7 @@ export default function Available({ player, handleAddToSelected }) {
     <div className=" mt-5">
       <div className="card mt-3 bg-gray-300 text-black w-96 shadow-sm">
         <figure>
-          <img
-            src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-            alt="Shoes"
-          />
+          <img className="w-50" src={player.player_img} alt="Shoes" />
         </figure>
         <div className="card-body">
           <h2 className="card-title">{player.player_name}</h2>
